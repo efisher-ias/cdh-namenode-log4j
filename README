@@ -1,0 +1,5 @@
+CM: hdfs ->
+    - configuration ->
+    - advanced ->
+    - "NameNode Logging Advanced Configuration Snippet (Safety Valve)"
+

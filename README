@@ -1,5 +1,24 @@
+<b>Setup</b>
+
 CM: hdfs ->
     - configuration ->
     - advanced ->
     - "NameNode Logging Advanced Configuration Snippet (Safety Valve)"
 
+
+<b>Filters</>
+Known commands FSNamesystem.audit
+
+cmd=contentSummary
+cmd=create
+cmd=delete
+cmd=getEZForPath
+cmd=getfileinfo
+cmd=listCacheDirectives
+cmd=listCachePools
+cmd=listEncryptionZones
+cmd=listStatus
+cmd=mkdirs
+cmd=open
+cmd=rename
+cmd=setTimes
